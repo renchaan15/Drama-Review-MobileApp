@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "532660839767",
+    "project_id": "drama-review-app",
+    "storage_bucket": "drama-review-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532660839767:android:966f7f75f19cfc8fa2ca12",
+        "android_client_info": {
+          "package_name": "com.example.drama_review_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532660839767-5ct9l39u382gff2h18kuibcefuqp751a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drama_review_app",
+            "certificate_hash": "0714b2dd29c341b6a61267280d4d34d85f2f0f92"
+          }
+        },
+        {
+          "client_id": "532660839767-vaa4lgqa0ilklgqqfcuka3a4j2magpl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUitEwg6KYAFmIQs83bK28N3qPwtw8O2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532660839767-vaa4lgqa0ilklgqqfcuka3a4j2magpl5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "532660839767-ettiv89aof39881gm8ppqlgdmghl9koq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dramaReviewApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
